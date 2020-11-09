@@ -1,4 +1,5 @@
 # GW2 Fractal Instabilties for T4
+This work is licensed under [![CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ## How to use this
 There's basically two options at the moment:
