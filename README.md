@@ -7,6 +7,12 @@ There's basically two options at the moment:
 - Integrate [data.json](data.json) into your own bot. The `instabilities` object contains the fractal level as key and the corresponding instabilities as values
   - e.g. `data["instabilities"]["76"][0]` gives the instabilities for level 76 on `????-01-01`.
 
+### But I don't want to write my own bot!
+Sure thing. I currently know of two public bots that can show instabilities. Both are pretty easy to use and set up for daily posts, the latter one is [open source](https://github.com/Maselkov/GW2Bot).
+- [Aleeva](https://aleeva.io)
+- [GW2Bot](https://gw2bot.info/)  
+
+
 ## The format of `data.json`
 Here's a commented TypeScript interface.
 ```ts
