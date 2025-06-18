@@ -1,0 +1,202 @@
+{
+    "scales": [
+        { "scale": 1, "type": "volcanic", "ar": 0 },
+        { "scale": 2, "type": "uncategorized", "ar": 0 },
+        { "scale": 3, "type": "snowblind", "ar": 0 },
+        { "scale": 4, "type": "urban_battleground", "ar": 0 },
+        { "scale": 5, "type": "swampland", "ar": 0 },
+        { "scale": 6, "type": "cliffside", "ar": 0 },
+        { "scale": 7, "type": "aquatic_ruins", "ar": 0 },
+        { "scale": 8, "type": "underground_facility", "ar": 0 },
+        { "scale": 9, "type": "molten_furnace", "ar": 0 },
+        { "scale": 10, "type": "molten_boss", "ar": 0 },
+        { "scale": 11, "type": "deepstone", "ar": 0 },
+        { "scale": 12, "type": "sirens_reef", "ar": 0 },
+        { "scale": 13, "type": "chaos", "ar": 0 },
+        { "scale": 14, "type": "aetherblade", "ar": 0 },
+        { "scale": 15, "type": "thaumanova_reactor", "ar": 0 },
+        { "scale": 16, "type": "twilight_oasis", "ar": 0 },
+        { "scale": 17, "type": "kinfall", "ar": 0 },
+        { "scale": 18, "type": "captain_mai_trin_boss", "ar": 0 },
+        { "scale": 19, "type": "volcanic", "ar": 0 },
+        { "scale": 20, "type": "solid_ocean", "ar": 8 },
+        { "scale": 21, "type": "silent_surf", "ar": 10 },
+        { "scale": 22, "type": "nightmare", "ar": 11 },
+        { "scale": 23, "type": "shattered_observatory", "ar": 13 },
+        { "scale": 24, "type": "sunqua_peak", "ar": 15 },
+        { "scale": 25, "type": "lonely_tower", "ar": 17 },
+        { "scale": 26, "type": "aquatic_ruins", "ar": 18 },
+        { "scale": 27, "type": "snowblind", "ar": 20 },
+        { "scale": 28, "type": "volcanic", "ar": 22 },
+        { "scale": 29, "type": "underground_facility", "ar": 24 },
+        { "scale": 30, "type": "chaos", "ar": 26 },
+        { "scale": 31, "type": "urban_battleground", "ar": 27 },
+        { "scale": 32, "type": "swampland", "ar": 29 },
+        { "scale": 33, "type": "deepstone", "ar": 31 },
+        { "scale": 34, "type": "thaumanova_reactor", "ar": 33 },
+        { "scale": 35, "type": "solid_ocean", "ar": 34 },
+        { "scale": 36, "type": "uncategorized", "ar": 36 },
+        { "scale": 37, "type": "sirens_reef", "ar": 38 },
+        { "scale": 38, "type": "kinfall", "ar": 40 },
+        { "scale": 39, "type": "molten_furnace", "ar": 42 },
+        { "scale": 40, "type": "molten_boss", "ar": 43 },
+        { "scale": 41, "type": "twilight_oasis", "ar": 45 },
+        { "scale": 42, "type": "captain_mai_trin_boss", "ar": 47 },
+        { "scale": 43, "type": "silent_surf", "ar": 49 },
+        { "scale": 44, "type": "solid_ocean", "ar": 50 },
+        { "scale": 45, "type": "aetherblade", "ar": 52 },
+        { "scale": 46, "type": "cliffside", "ar": 54 },
+        { "scale": 47, "type": "nightmare", "ar": 56 },
+        { "scale": 48, "type": "shattered_observatory", "ar": 58 },
+        { "scale": 49, "type": "sunqua_peak", "ar": 59 },
+        { "scale": 50, "type": "lonely_tower", "ar": 61 },
+        { "scale": 51, "type": "snowblind", "ar": 63 },
+        { "scale": 52, "type": "volcanic", "ar": 65 },
+        { "scale": 53, "type": "underground_facility", "ar": 67 },
+        { "scale": 54, "type": "sirens_reef", "ar": 68 },
+        { "scale": 55, "type": "thaumanova_reactor", "ar": 70 },
+        { "scale": 56, "type": "swampland", "ar": 72 },
+        { "scale": 57, "type": "urban_battleground", "ar": 74 },
+        { "scale": 58, "type": "molten_furnace", "ar": 75 },
+        { "scale": 59, "type": "twilight_oasis", "ar": 77 },
+        { "scale": 60, "type": "solid_ocean", "ar": 79 },
+        { "scale": 61, "type": "aquatic_ruins", "ar": 81 },
+        { "scale": 62, "type": "uncategorized", "ar": 83 },
+        { "scale": 63, "type": "chaos", "ar": 84 },
+        { "scale": 64, "type": "thaumanova_reactor", "ar": 86 },
+        { "scale": 65, "type": "aetherblade", "ar": 88 },
+        { "scale": 66, "type": "silent_surf", "ar": 90 },
+        { "scale": 67, "type": "deepstone", "ar": 91 },
+        { "scale": 68, "type": "cliffside", "ar": 93 },
+        { "scale": 69, "type": "molten_boss", "ar": 95 },
+        { "scale": 70, "type": "kinfall", "ar": 97 },
+        { "scale": 71, "type": "captain_mai_trin_boss", "ar": 99 },
+        { "scale": 72, "type": "nightmare", "ar": 100 },
+        { "scale": 73, "type": "shattered_observatory", "ar": 102 },
+        { "scale": 74, "type": "sunqua_peak", "ar": 104 },
+        { "scale": 75, "type": "lonely_tower", "ar": 106 },
+        { "scale": 76, "type": "aquatic_ruins", "ar": 107 },
+        { "scale": 77, "type": "swampland", "ar": 109 },
+        { "scale": 78, "type": "sirens_reef", "ar": 111 },
+        { "scale": 79, "type": "uncategorized", "ar": 113 },
+        { "scale": 80, "type": "solid_ocean", "ar": 115 },
+        { "scale": 81, "type": "underground_facility", "ar": 116 },
+        { "scale": 82, "type": "thaumanova_reactor", "ar": 118 },
+        { "scale": 83, "type": "molten_furnace", "ar": 120 },
+        { "scale": 84, "type": "deepstone", "ar": 122 },
+        { "scale": 85, "type": "urban_battleground", "ar": 123 },
+        { "scale": 86, "type": "snowblind", "ar": 125 },
+        { "scale": 87, "type": "twilight_oasis", "ar": 127 },
+        { "scale": 88, "type": "chaos", "ar": 129 },
+        { "scale": 89, "type": "swampland", "ar": 131 },
+        { "scale": 90, "type": "molten_boss", "ar": 132 },
+        { "scale": 91, "type": "captain_mai_trin_boss", "ar": 134 },
+        { "scale": 92, "type": "volcanic", "ar": 136 },
+        { "scale": 93, "type": "aetherblade", "ar": 138 },
+        { "scale": 94, "type": "cliffside", "ar": 139 },
+        { "scale": 95, "type": "kinfall", "ar": 141 },
+        { "scale": 96, "type": "nightmare", "ar": 143 },
+        { "scale": 97, "type": "shattered_observatory", "ar": 145 },
+        { "scale": 98, "type": "sunqua_peak", "ar": 147 },
+        { "scale": 99, "type": "silent_surf", "ar": 148 },
+        { "scale": 100, "type": "lonely_tower", "ar": 150 }
+    ],
+    "fractal_details": {
+        "aetherblade": {
+            "name": { "de": "Ätherklingen-Zuflucht", "en": "Aetherblade", "es": "Filoetéreo", "fr": "Étherlame" },
+            "scales": [14, 45, 65, 93]
+        },
+        "aquatic_ruins": {
+            "name": { "de": "Unterwasserruinen", "en": "Aquatic Ruins", "es": "Ruinas acuáticas", "fr": "Ruines aquatiques" },
+            "scales": [7, 26, 61, 76]
+        },
+        "captain_mai_trin_boss": {
+            "name": { "de": "Kapitän Mai Trin Boss", "en": "Captain Mai Trin Boss", "es": "Jefa capitana Mai Trin", "fr": "Boss capitaine Mai Trin" },
+            "scales": [18, 42, 71, 91]
+        },
+        "chaos": {
+            "name": { "de": "Chaos", "en": "Chaos", "es": "Caos", "fr": "Chaos" },
+            "scales": [13, 30, 63, 88]
+        },
+        "cliffside": {
+            "name": { "de": "Felswand", "en": "Cliffside", "es": "Despeñadero", "fr": "Flanc de falaise" },
+            "scales": [6, 46, 68, 94]
+        },
+        "deepstone": {
+            "name": { "de": "Tiefenstein", "en": "Deepstone", "es": "Rocahonda", "fr": "Roche des abysses" },
+            "scales": [11, 33, 67, 84]
+        },
+        "kinfall": {
+            "name": { "de": "Sippenfall", "en": "Kinfall", "es": "Hecatombe Allegada", "fr": "Deuil du foyer" },
+            "scales": [17, 38, 70, 95]
+        },
+        "lonely_tower": {
+            "name": { "de": "Einsamer Turm", "en": "Lonely Tower", "es": "Torre Solitaria", "fr": "Tour solitaire" },
+            "scales": [25, 50, 75, 100]
+        },
+        "molten_boss": {
+            "name": { "de": "Feuriger Boss", "en": "Molten Boss", "es": "Jefes Fundidos", "fr": "Boss de la Fusion" },
+            "scales": [10, 40, 69, 90]
+        },
+        "molten_furnace": {
+            "name": { "de": "Feuriger Hochofen", "en": "Molten Furnace", "es": "Fragua Fundida", "fr": "Fournaise de la Fusion" },
+            "scales": [9, 39, 58, 83]
+        },
+        "nightmare": {
+            "name": { "de": "Albtraum", "en": "Nightmare", "es": "Pesadilla", "fr": "Cauchemars" },
+            "scales": [22, 47, 72, 96]
+        },
+        "shattered_observatory": {
+            "name": { "de": "Zerschmettertes Observatorium", "en": "Shattered Observatory", "es": "Observatorio Asolado", "fr": "Observatoire détruit" },
+            "scales": [23, 48, 73, 97]
+        },
+        "silent_surf": {
+            "name": { "de": "Stumme Brandung", "en": "Silent Surf", "es": "Oleaje Silencioso", "fr": "Ressac silencieux" },
+            "scales": [21, 43, 66, 99]
+        },
+        "sirens_reef": {
+            "name": { "de": "Riff der Sirene", "en": "Siren's Reef", "es": "Arrecife de la Sirena", "fr": "Récif de la sirène" },
+            "scales": [12, 37, 54, 78]
+        },
+        "snowblind": {
+            "name": { "de": "Schneeblind", "en": "Snowblind", "es": "Ceguera de la Nieve", "fr": "Aveugleneige" },
+            "scales": [3, 27, 51, 86]
+        },
+        "sunqua_peak": {
+            "name": { "de": "Sunqua-Gipfel", "en": "Sunqua Peak", "es": "Pico de Sunqua", "fr": "Pic de Sunqua" },
+            "scales": [24, 49, 74, 98]
+        },
+        "solid_ocean": {
+            "name": { "de": "Solider Ozean", "en": "Solid Ocean", "es": "Océano Sólido", "fr": "Océan solide" },
+            "scales": [20, 35, 44, 60, 80]
+        },
+        "swampland": {
+            "name": { "de": "Sumpfland", "en": "Swampland", "es": "Cenagal", "fr": "Marais" },
+            "scales": [5, 32, 56, 77, 89]
+        },
+        "thaumanova_reactor": {
+            "name": { "de": "Thaumanova-Reaktor", "en": "Thaumanova Reactor", "es": "Reactor de Taumanova", "fr": "Réacteur de Thaumanova" },
+            "scales": [15, 34, 55, 64, 82]
+        },
+        "twilight_oasis": {
+            "name": { "de": "Zwielichtoase", "en": "Twilight Oasis", "es": "Oasis del Crepúsculo", "fr": "Oasis du crépuscule" },
+            "scales": [16, 41, 59, 87]
+        },
+        "uncategorized": {
+            "name": { "de": "Nicht kategorisiert", "en": "Uncategorized", "es": "Sin Clasificar", "fr": "Non classée" },
+            "scales": [2, 36, 62, 79]
+        },
+        "underground_facility": {
+            "name": { "de": "Untergrundeinrichtung", "en": "Underground Facility", "es": "Instalación Subterránea", "fr": "Complexe souterrain" },
+            "scales": [8, 29, 53, 81]
+        },
+        "urban_battleground": {
+            "name": { "de": "Urbanes Schlachtfeld", "en": "Urban Battleground", "es": "Campo de Batalla Urbano", "fr": "Champ de bataille urbain" },
+            "scales": [4, 31, 57, 85]
+        },
+        "volcanic": {
+            "name": { "de": "Vulkanisches Fraktal", "en": "Volcanic", "es": "Volcánico", "fr": "Volcanique" },
+            "scales": [1, 19, 28, 52, 92]
+        }
+    }
+}
