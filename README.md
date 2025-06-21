@@ -55,6 +55,8 @@ type Days = Instabilities[];
 
 type LocalizedString = { de: string, en: string, es: string, fr: string };
 
+type RecommendedFractal = { scale: number, achievement_id: number }
+
 export interface Instabilities {
   instabilities: { [x in FractalLevel]: Days },
 
@@ -67,11 +69,11 @@ export interface Dailies {
 }
 
 export interface Recommended {
-  recommended: [number, number, number][],
+  recommended: [RecommendedFractal, RecommendedFractal, RecommendedFractal][],
 }
 
 export interface Fractals {
-  scales: { scale: number, type: string, ar: number }[],
+  scales: { scale: number, type: string, ar: number, daily_achievement_id: number }[],
   fractal_details: Record<string, { name: LocalizedString, scales: number[] }>
 }
 ```
