@@ -1,0 +1,19 @@
+{
+    "recommended": [
+        [{ "scale": 2, "achievement_id": 2477 }, { "scale": 37, "achievement_id": 2377 }, { "scale": 53, "achievement_id": 3237 }],
+        [{ "scale": 6, "achievement_id": 2229 }, { "scale": 28, "achievement_id": 2297 }, { "scale": 61, "achievement_id": 3198 }],
+        [{ "scale": 10, "achievement_id": 2560 }, { "scale": 32, "achievement_id": 2363 }, { "scale": 65, "achievement_id": 3189 }],
+        [{ "scale": 14, "achievement_id": 2327 }, { "scale": 34, "achievement_id": 2592 }, { "scale": 74, "achievement_id": 3204 }],
+        [{ "scale": 19, "achievement_id": 2492 }, { "scale": 50, "achievement_id": 8037 }, { "scale": 70, "achievement_id": 3203 }],
+        [{ "scale": 15, "achievement_id": 2238 }, { "scale": 48, "achievement_id": 2337 }, { "scale": 60, "achievement_id": 3172 }],
+        [{ "scale": 24, "achievement_id": 2245 }, { "scale": 35, "achievement_id": 2266 }, { "scale": 66, "achievement_id": 3184 }],
+        [{ "scale": 21, "achievement_id": 2189 }, { "scale": 36, "achievement_id": 2309 }, { "scale": 75, "achievement_id": 3238 }],
+        [{ "scale": 7, "achievement_id": 2329 }, { "scale": 40, "achievement_id": 2171 }, { "scale": 67, "achievement_id": 3201 }],
+        [{ "scale": 8, "achievement_id": 2422 }, { "scale": 31, "achievement_id": 2533 }, { "scale": 54, "achievement_id": 3185 }],
+        [{ "scale": 11, "achievement_id": 2153 }, { "scale": 39, "achievement_id": 2591 }, { "scale": 59, "achievement_id": 3228 }],
+        [{ "scale": 18, "achievement_id": 2467 }, { "scale": 27, "achievement_id": 2239 }, { "scale": 64, "achievement_id": 3215 }],
+        [{ "scale": 4, "achievement_id": 2405 }, { "scale": 30, "achievement_id": 2330 }, { "scale": 58, "achievement_id": 3192 }],
+        [{ "scale": 16, "achievement_id": 2308 }, { "scale": 42, "achievement_id": 2394 }, { "scale": 62, "achievement_id": 3213 }],
+        [{ "scale": 5, "achievement_id": 2316 }, { "scale": 47, "achievement_id": 2463 }, { "scale": 68, "achievement_id": 3187 }]
+    ]
+}

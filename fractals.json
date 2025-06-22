@@ -1,0 +1,202 @@
+{
+    "scales": [
+        { "scale": 1, "type": "volcanic", "ar": 0, "daily_achievement_id": 2911 },
+        { "scale": 2, "type": "uncategorized", "ar": 0, "daily_achievement_id": 2940 },
+        { "scale": 3, "type": "snowblind", "ar": 0, "daily_achievement_id": 2916 },
+        { "scale": 4, "type": "urban_battleground", "ar": 0, "daily_achievement_id": 2896 },
+        { "scale": 5, "type": "swampland", "ar": 0, "daily_achievement_id": 2935 },
+        { "scale": 6, "type": "cliffside", "ar": 0, "daily_achievement_id": 2977 },
+        { "scale": 7, "type": "aquatic_ruins", "ar": 0, "daily_achievement_id": 2900 },
+        { "scale": 8, "type": "underground_facility", "ar": 0, "daily_achievement_id": 2929 },
+        { "scale": 9, "type": "molten_furnace", "ar": 0, "daily_achievement_id": 2976 },
+        { "scale": 10, "type": "molten_boss", "ar": 0, "daily_achievement_id": 2979 },
+        { "scale": 11, "type": "deepstone", "ar": 0, "daily_achievement_id": 4244 },
+        { "scale": 12, "type": "sirens_reef", "ar": 0, "daily_achievement_id": 4551 },
+        { "scale": 13, "type": "chaos", "ar": 0, "daily_achievement_id": 3063 },
+        { "scale": 14, "type": "aetherblade", "ar": 0, "daily_achievement_id": 2927 },
+        { "scale": 15, "type": "thaumanova_reactor", "ar": 0, "daily_achievement_id": 2981 },
+        { "scale": 16, "type": "twilight_oasis", "ar": 0, "daily_achievement_id": 4028 },
+        { "scale": 17, "type": "kinfall", "ar": 0, "daily_achievement_id": 8784 },
+        { "scale": 18, "type": "captain_mai_trin_boss", "ar": 0, "daily_achievement_id": 2978 },
+        { "scale": 19, "type": "volcanic", "ar": 0, "daily_achievement_id": 2911 },
+        { "scale": 20, "type": "solid_ocean", "ar": 8, "daily_achievement_id": 2954 },
+        { "scale": 21, "type": "silent_surf", "ar": 10, "daily_achievement_id": 6953 },
+        { "scale": 22, "type": "nightmare", "ar": 11, "daily_achievement_id": 3229 },
+        { "scale": 23, "type": "shattered_observatory", "ar": 13, "daily_achievement_id": 3509 },
+        { "scale": 24, "type": "sunqua_peak", "ar": 15, "daily_achievement_id": 5447 },
+        { "scale": 25, "type": "lonely_tower", "ar": 17, "daily_achievement_id": 8055 },
+        { "scale": 26, "type": "aquatic_ruins", "ar": 18, "daily_achievement_id": 2898 },
+        { "scale": 27, "type": "snowblind", "ar": 20, "daily_achievement_id": 2949 },
+        { "scale": 28, "type": "volcanic", "ar": 22, "daily_achievement_id": 2908 },
+        { "scale": 29, "type": "underground_facility", "ar": 24, "daily_achievement_id": 2889 },
+        { "scale": 30, "type": "chaos", "ar": 26, "daily_achievement_id": 3044 },
+        { "scale": 31, "type": "urban_battleground", "ar": 27, "daily_achievement_id": 2907 },
+        { "scale": 32, "type": "swampland", "ar": 29, "daily_achievement_id": 2961 },
+        { "scale": 33, "type": "deepstone", "ar": 31, "daily_achievement_id": 4218 },
+        { "scale": 34, "type": "thaumanova_reactor", "ar": 33, "daily_achievement_id": 2991 },
+        { "scale": 35, "type": "solid_ocean", "ar": 34, "daily_achievement_id": 2971 },
+        { "scale": 36, "type": "uncategorized", "ar": 36, "daily_achievement_id": 2902 },
+        { "scale": 37, "type": "sirens_reef", "ar": 38, "daily_achievement_id": 4496 },
+        { "scale": 38, "type": "kinfall", "ar": 40, "daily_achievement_id": 8736 },
+        { "scale": 39, "type": "molten_furnace", "ar": 42, "daily_achievement_id": 2955 },
+        { "scale": 40, "type": "molten_boss", "ar": 43, "daily_achievement_id": 2985 },
+        { "scale": 41, "type": "twilight_oasis", "ar": 45, "daily_achievement_id": 4006 },
+        { "scale": 42, "type": "captain_mai_trin_boss", "ar": 47, "daily_achievement_id": 2899 },
+        { "scale": 43, "type": "silent_surf", "ar": 49, "daily_achievement_id": 6943 },
+        { "scale": 44, "type": "solid_ocean", "ar": 50, "daily_achievement_id": 2971 },
+        { "scale": 45, "type": "aetherblade", "ar": 52, "daily_achievement_id": 2909 },
+        { "scale": 46, "type": "cliffside", "ar": 54, "daily_achievement_id": 2958 },
+        { "scale": 47, "type": "nightmare", "ar": 56, "daily_achievement_id": 3196 },
+        { "scale": 48, "type": "shattered_observatory", "ar": 58, "daily_achievement_id": 3478 },
+        { "scale": 49, "type": "sunqua_peak", "ar": 59, "daily_achievement_id": 5449 },
+        { "scale": 50, "type": "lonely_tower", "ar": 61, "daily_achievement_id": 7992 },
+        { "scale": 51, "type": "snowblind", "ar": 63, "daily_achievement_id": 2918 },
+        { "scale": 52, "type": "volcanic", "ar": 65, "daily_achievement_id": 2890 },
+        { "scale": 53, "type": "underground_facility", "ar": 67, "daily_achievement_id": 2950 },
+        { "scale": 54, "type": "sirens_reef", "ar": 68, "daily_achievement_id": 4526 },
+        { "scale": 55, "type": "thaumanova_reactor", "ar": 70, "daily_achievement_id": 2895 },
+        { "scale": 56, "type": "swampland", "ar": 72, "daily_achievement_id": 2972 },
+        { "scale": 57, "type": "urban_battleground", "ar": 74, "daily_achievement_id": 2897 },
+        { "scale": 58, "type": "molten_furnace", "ar": 75, "daily_achievement_id": 2944 },
+        { "scale": 59, "type": "twilight_oasis", "ar": 77, "daily_achievement_id": 4030 },
+        { "scale": 60, "type": "solid_ocean", "ar": 79, "daily_achievement_id": 2986 },
+        { "scale": 61, "type": "aquatic_ruins", "ar": 81, "daily_achievement_id": 2964 },
+        { "scale": 62, "type": "uncategorized", "ar": 83, "daily_achievement_id": 2925 },
+        { "scale": 63, "type": "chaos", "ar": 84, "daily_achievement_id": 3045 },
+        { "scale": 64, "type": "thaumanova_reactor", "ar": 86, "daily_achievement_id": 2895 },
+        { "scale": 65, "type": "aetherblade", "ar": 88, "daily_achievement_id": 2928 },
+        { "scale": 66, "type": "silent_surf", "ar": 90, "daily_achievement_id": 6945 },
+        { "scale": 67, "type": "deepstone", "ar": 91, "daily_achievement_id": 4210 },
+        { "scale": 68, "type": "cliffside", "ar": 93, "daily_achievement_id": 2926 },
+        { "scale": 69, "type": "molten_boss", "ar": 95, "daily_achievement_id": 2934 },
+        { "scale": 70, "type": "kinfall", "ar": 97, "daily_achievement_id": 8729 },
+        { "scale": 71, "type": "captain_mai_trin_boss", "ar": 99, "daily_achievement_id": 2962 },
+        { "scale": 72, "type": "nightmare", "ar": 100, "daily_achievement_id": 3175 },
+        { "scale": 73, "type": "shattered_observatory", "ar": 102, "daily_achievement_id": 3464 },
+        { "scale": 74, "type": "sunqua_peak", "ar": 104, "daily_achievement_id": 5437 },
+        { "scale": 75, "type": "lonely_tower", "ar": 106, "daily_achievement_id": 8000 },
+        { "scale": 76, "type": "aquatic_ruins", "ar": 107, "daily_achievement_id": 2956 },
+        { "scale": 77, "type": "swampland", "ar": 109, "daily_achievement_id": 2892 },
+        { "scale": 78, "type": "sirens_reef", "ar": 111, "daily_achievement_id": 4494 },
+        { "scale": 79, "type": "uncategorized", "ar": 113, "daily_achievement_id": 2939 },
+        { "scale": 80, "type": "solid_ocean", "ar": 115, "daily_achievement_id": 2923 },
+        { "scale": 81, "type": "underground_facility", "ar": 116, "daily_achievement_id": 2947 },
+        { "scale": 82, "type": "thaumanova_reactor", "ar": 118, "daily_achievement_id": 2967 },
+        { "scale": 83, "type": "molten_furnace", "ar": 120, "daily_achievement_id": 2903 },
+        { "scale": 84, "type": "deepstone", "ar": 122, "daily_achievement_id": 4224 },
+        { "scale": 85, "type": "urban_battleground", "ar": 123, "daily_achievement_id": 2941 },
+        { "scale": 86, "type": "snowblind", "ar": 125, "daily_achievement_id": 2952 },
+        { "scale": 87, "type": "twilight_oasis", "ar": 127, "daily_achievement_id": 3973 },
+        { "scale": 88, "type": "chaos", "ar": 129, "daily_achievement_id": 3038 },
+        { "scale": 89, "type": "swampland", "ar": 131, "daily_achievement_id": 2892 },
+        { "scale": 90, "type": "molten_boss", "ar": 132, "daily_achievement_id": 2966 },
+        { "scale": 91, "type": "captain_mai_trin_boss", "ar": 134, "daily_achievement_id": 2932 },
+        { "scale": 92, "type": "volcanic", "ar": 136, "daily_achievement_id": 2989 },
+        { "scale": 93, "type": "aetherblade", "ar": 138, "daily_achievement_id": 2948 },
+        { "scale": 94, "type": "cliffside", "ar": 139, "daily_achievement_id": 2930 },
+        { "scale": 95, "type": "kinfall", "ar": 141, "daily_achievement_id": 8739 },
+        { "scale": 96, "type": "nightmare", "ar": 143, "daily_achievement_id": 3177 },
+        { "scale": 97, "type": "shattered_observatory", "ar": 145, "daily_achievement_id": 3458 },
+        { "scale": 98, "type": "sunqua_peak", "ar": 147, "daily_achievement_id": 5446 },
+        { "scale": 99, "type": "silent_surf", "ar": 148, "daily_achievement_id": 6935 },
+        { "scale": 100, "type": "lonely_tower", "ar": 150, "daily_achievement_id": 7950 }
+    ],
+    "fractal_details": {
+        "aetherblade": {
+            "name": { "de": "Ätherklingen-Zuflucht", "en": "Aetherblade", "es": "Filoetéreo", "fr": "Étherlame" },
+            "scales": [14, 45, 65, 93]
+        },
+        "aquatic_ruins": {
+            "name": { "de": "Unterwasserruinen", "en": "Aquatic Ruins", "es": "Ruinas acuáticas", "fr": "Ruines aquatiques" },
+            "scales": [7, 26, 61, 76]
+        },
+        "captain_mai_trin_boss": {
+            "name": { "de": "Kapitän Mai Trin Boss", "en": "Captain Mai Trin Boss", "es": "Jefa capitana Mai Trin", "fr": "Boss capitaine Mai Trin" },
+            "scales": [18, 42, 71, 91]
+        },
+        "chaos": {
+            "name": { "de": "Chaos", "en": "Chaos", "es": "Caos", "fr": "Chaos" },
+            "scales": [13, 30, 63, 88]
+        },
+        "cliffside": {
+            "name": { "de": "Felswand", "en": "Cliffside", "es": "Despeñadero", "fr": "Flanc de falaise" },
+            "scales": [6, 46, 68, 94]
+        },
+        "deepstone": {
+            "name": { "de": "Tiefenstein", "en": "Deepstone", "es": "Rocahonda", "fr": "Roche des abysses" },
+            "scales": [11, 33, 67, 84]
+        },
+        "kinfall": {
+            "name": { "de": "Sippenfall", "en": "Kinfall", "es": "Hecatombe Allegada", "fr": "Deuil du foyer" },
+            "scales": [17, 38, 70, 95]
+        },
+        "lonely_tower": {
+            "name": { "de": "Einsamer Turm", "en": "Lonely Tower", "es": "Torre Solitaria", "fr": "Tour solitaire" },
+            "scales": [25, 50, 75, 100]
+        },
+        "molten_boss": {
+            "name": { "de": "Feuriger Boss", "en": "Molten Boss", "es": "Jefes Fundidos", "fr": "Boss de la Fusion" },
+            "scales": [10, 40, 69, 90]
+        },
+        "molten_furnace": {
+            "name": { "de": "Feuriger Hochofen", "en": "Molten Furnace", "es": "Fragua Fundida", "fr": "Fournaise de la Fusion" },
+            "scales": [9, 39, 58, 83]
+        },
+        "nightmare": {
+            "name": { "de": "Albtraum", "en": "Nightmare", "es": "Pesadilla", "fr": "Cauchemars" },
+            "scales": [22, 47, 72, 96]
+        },
+        "shattered_observatory": {
+            "name": { "de": "Zerschmettertes Observatorium", "en": "Shattered Observatory", "es": "Observatorio Asolado", "fr": "Observatoire détruit" },
+            "scales": [23, 48, 73, 97]
+        },
+        "silent_surf": {
+            "name": { "de": "Stumme Brandung", "en": "Silent Surf", "es": "Oleaje Silencioso", "fr": "Ressac silencieux" },
+            "scales": [21, 43, 66, 99]
+        },
+        "sirens_reef": {
+            "name": { "de": "Riff der Sirene", "en": "Siren's Reef", "es": "Arrecife de la Sirena", "fr": "Récif de la sirène" },
+            "scales": [12, 37, 54, 78]
+        },
+        "snowblind": {
+            "name": { "de": "Schneeblind", "en": "Snowblind", "es": "Ceguera de la Nieve", "fr": "Aveugleneige" },
+            "scales": [3, 27, 51, 86]
+        },
+        "sunqua_peak": {
+            "name": { "de": "Sunqua-Gipfel", "en": "Sunqua Peak", "es": "Pico de Sunqua", "fr": "Pic de Sunqua" },
+            "scales": [24, 49, 74, 98]
+        },
+        "solid_ocean": {
+            "name": { "de": "Solider Ozean", "en": "Solid Ocean", "es": "Océano Sólido", "fr": "Océan solide" },
+            "scales": [20, 35, 44, 60, 80]
+        },
+        "swampland": {
+            "name": { "de": "Sumpfland", "en": "Swampland", "es": "Cenagal", "fr": "Marais" },
+            "scales": [5, 32, 56, 77, 89]
+        },
+        "thaumanova_reactor": {
+            "name": { "de": "Thaumanova-Reaktor", "en": "Thaumanova Reactor", "es": "Reactor de Taumanova", "fr": "Réacteur de Thaumanova" },
+            "scales": [15, 34, 55, 64, 82]
+        },
+        "twilight_oasis": {
+            "name": { "de": "Zwielichtoase", "en": "Twilight Oasis", "es": "Oasis del Crepúsculo", "fr": "Oasis du crépuscule" },
+            "scales": [16, 41, 59, 87]
+        },
+        "uncategorized": {
+            "name": { "de": "Nicht kategorisiert", "en": "Uncategorized", "es": "Sin Clasificar", "fr": "Non classée" },
+            "scales": [2, 36, 62, 79]
+        },
+        "underground_facility": {
+            "name": { "de": "Untergrundeinrichtung", "en": "Underground Facility", "es": "Instalación Subterránea", "fr": "Complexe souterrain" },
+            "scales": [8, 29, 53, 81]
+        },
+        "urban_battleground": {
+            "name": { "de": "Urbanes Schlachtfeld", "en": "Urban Battleground", "es": "Campo de Batalla Urbano", "fr": "Champ de bataille urbain" },
+            "scales": [4, 31, 57, 85]
+        },
+        "volcanic": {
+            "name": { "de": "Vulkanisches Fraktal", "en": "Volcanic", "es": "Volcánico", "fr": "Volcanique" },
+            "scales": [1, 19, 28, 52, 92]
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "dailies": [
+        ["nightmare", "snowblind", "volcanic"],
+        ["aetherblade", "thaumanova_reactor", "uncategorized"],
+        ["chaos", "cliffside", "twilight_oasis"],
+        ["captain_mai_trin_boss", "deepstone", "silent_surf"],
+        ["nightmare", "snowblind", "solid_ocean"],
+        ["chaos", "uncategorized", "urban_battleground"],
+        ["deepstone", "molten_furnace", "sirens_reef"],
+        ["molten_boss", "twilight_oasis", "underground_facility"],
+        ["silent_surf", "swampland", "volcanic"],
+        ["aquatic_ruins", "lonely_tower", "thaumanova_reactor"],
+        ["sunqua_peak", "underground_facility", "urban_battleground"],
+        ["aetherblade", "chaos", "nightmare"],
+        ["cliffside", "lonely_tower", "kinfall"],
+        ["deepstone", "solid_ocean", "swampland"],
+        ["captain_mai_trin_boss", "molten_boss", "shattered_observatory"]
+    ]
+}

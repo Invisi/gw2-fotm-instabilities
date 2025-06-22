@@ -9201,24 +9201,24 @@
             [4, 2, 1]
         ]
     },
-    "instability_names": [
-        "Adrenaline Rush",
-        "Afflicted",
-        "Boon Overload",
-        "Flux Bomb",
-        "Fractal Vindicators",
-        "Frailty",
-        "Hamstrung",
-        "Last Laugh",
-        "Mists Convergence",
-        "No Pain, No Gain",
-        "Outflanked",
-        "Social Awkwardness",
-        "Stick Together",
-        "Sugar Rush",
-        "Toxic Trail",
-        "Vengeance",
-        "We Bleed Fire",
-        "Toxic Sickness"
+    "instability_details": [
+        { "icon_id": 841731, "name": { "de": "Adrenalinschub", "en": "Adrenaline Rush", "es": "Descarga de adrenalina", "fr": "Poussée d’adrénaline" }},
+        { "icon_id": 1948134, "name": { "de": "Befallen", "en": "Afflicted", "es": "Aflicción", "fr": "Affliction" }},
+        { "icon_id": 2084733, "name": { "de": "Segensüberladung", "en": "Boon Overload", "es": "Sobrecarga de bendiciones", "fr": "Surcharge d'avantages" }},
+        { "icon_id": 1948135, "name": { "de": "Fluxbombe", "en": "Flux Bomb", "es": "Bomba de flujo", "fr": "Bombe à flux" }},
+        { "icon_id": 1948142, "name": { "de": "Fraktal-Verteidiger", "en": "Fractal Vindicators", "es": "Vindicadores de los fractales", "fr": "Justicier des fractales" }},
+        { "icon_id": 2084735, "name": { "de": "Gebrechlichkeit", "en": "Frailty", "es": "Flaqueza", "fr": "Fragilité" }},
+        { "icon_id": 1948136, "name": { "de": "Gelähmt", "en": "Hamstrung", "es": "Tullido", "fr": "Coupe-jarret" }},
+        { "icon_id": 1948137, "name": { "de": "Wer zuletzt lacht", "en": "Last Laugh", "es": "Última risa", "fr": "Dernier éclat de rire" }},
+        { "icon_id": 1948138, "name": { "de": "Konvergenz der Nebel", "en": "Mists Convergence", "es": "Convergencia de la Niebla", "fr": "Convergence des Brumes" }},
+        { "icon_id": 1948139, "name": { "de": "Ohne Fleiß kein Preis", "en": "No Pain, No Gain", "es": "Recompensa bien merecida", "fr": "On n'a rien sans mal" }},
+        { "icon_id": 2084736, "name": { "de": "Überlistet", "en": "Outflanked", "es": "Flanco", "fr": "Contournement" }},
+        { "icon_id": 1948140, "name": { "de": "Unbeholfen in Gesellschaft", "en": "Social Awkwardness", "es": "Ineptitud social", "fr": "Gaucherie en société" }},
+        { "icon_id": 2084738, "name": { "de": "Zusammenbleiben", "en": "Stick Together", "es": "Vamos juntos", "fr": "Rester groupés" }},
+        { "icon_id": 2084739, "name": { "de": "Zuckerschub", "en": "Sugar Rush", "es": "Subida de azúcar", "fr": "Montée de glucose" }},
+        { "icon_id": 1948141, "name": { "de": "Toxische Spur", "en": "Toxic Trail", "es": "Rastro tóxico", "fr": "Piste toxique" }},
+        { "icon_id": 2084741, "name": { "de": "Rache", "en": "Vengeance", "es": "Venganza", "fr": "vengeance" }},
+        { "icon_id": 2084742, "name": { "de": "Feuer im Blut", "en": "We Bleed Fire", "es": "Fuego en la sangre", "fr": "Sang de feu" }},
+        { "icon_id": 2084734, "name": { "de": "Toxische Krankheit", "en": "Toxic Sickness", "es": "Enfermedad tóxica", "fr": "Maladie toxique" }}
     ]
 }
