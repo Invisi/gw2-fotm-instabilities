@@ -6,7 +6,7 @@ This work is licensed under [![CC BY-NC 4.0](https://img.shields.io/badge/Licens
 
 There's basically two options at the moment:
 
-- Use [Aleeva](https://aleeva.io)'s API. At the moment the API documentation is not finished but you can just contact itsmefox on the Aleeva Discord server.
+- Use [Aleeva](https://aleeva.io)'s API. Documentation available [here](https://api.aleeva.io/api-doc.html).
 - Integrate the data in this repository directly in your project. This repository contains 4 JSON files:
   - **`instabilities.json`**: Contains the instabilities for a given T4 fractal on a given day.  
     The `instabilities` object contains the fractal level as key and the corresponding instabilities as values
