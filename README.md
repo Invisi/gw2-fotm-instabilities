@@ -1,4 +1,4 @@
-# GW2 Fractal Instabilties for T4
+# GW2 Fractal Instabilties
 
 This work is licensed under [![CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/).
 
@@ -8,7 +8,7 @@ There's basically two options at the moment:
 
 - Use [Aleeva](https://aleeva.io)'s API. Documentation available [here](https://api.aleeva.io/api-doc.html).
 - Integrate the data in this repository directly in your project. This repository contains 4 JSON files:
-  - **`instabilities.json`**: Contains the instabilities for a given T4 fractal on a given day.  
+  - **`instabilities.json`**: Contains the instabilities for a given fractal on a given day.  
     The `instabilities` object contains the fractal level as key and the corresponding instabilities as values
     - e.g. `data["instabilities"]["76"][0]` gives the instabilities for level 76 on `????-01-01`.
   - **`dailies.json`**: Contains the daily fractals on a given day.
@@ -38,35 +38,62 @@ The fractals are on a 15 day rotation. To get the current index, you have to cal
 Here's a commented TypeScript interface.
 
 ```ts
-// looks funny but that's how you can get 76-100 as strings
+// looks funny but that's how you can get 26-100 as strings
 type LowerLevels = `6` | `7` | `8` | `9`;
 type UpperLevels = `0` | `1` | `2` | `3` | `4` | `5` | LowerLevels;
-type FractalLevel =
+type FractalsT2 =
+  | `2${LowerLevels}`
+  | `3${UpperLevels}`
+  | `4${UpperLevels}`
+  | `50`; // 26 - 50
+type FractalsT3 =
+  | Exclude<`5${UpperLevels}`, `50`>
+  | `6${UpperLevels}`
+  | `7${0 | 1 | 2 | 3 | 4 | 5}`; // 51 - 75
+type FractalsT4 =
   | `7${LowerLevels}`
   | `8${UpperLevels}`
   | `9${UpperLevels}`
-  | `100`;
+  | `100`; // 76 - 100
+
+type Tier = `T2` | `T3` | `T4`;
+type FractalLevel<N extends Tier> = N extends `T2`
+  ? FractalsT2
+  : N extends `T3`
+    ? FractalsT3
+    : FractalsT4;
 
 // list of instabilities in GW2's order
-type Instabilities = [number, number, number];
+// T2 has 1 instability, T3 has 2 instabilities, ...
+type DayInstabilities<N extends Tier> = N extends `T2`
+  ? [number]
+  : N extends `T3`
+    ? [number, number]
+    : [number, number, number];
 
 // zero-indexed list of instabilities for a whole *leap* year
-type Days = Instabilities[];
+type Days<N extends Tier> = DayInstabilities<N>[];
 
-type LocalizedString = { de: string, en: string, es: string, fr: string };
-
-type RecommendedFractal = { scale: number, achievement_id: number }
+type LocalizedString = { de: string; en: string; es: string; fr: string };
 
 export interface Instabilities {
-  instabilities: { [x in FractalLevel]: Days },
+  instabilities: { [x in FractalLevel<`T2`>]: Days<`T2`> } & {
+    [x in FractalLevel<`T3`>]: Days<`T3`>
+  } & { [x in FractalLevel<`T4`>]: Days<`T4`> },
 
-  // list of instability names, indexed in `instabilities`
-  instability_details: { icon_id: number, name: LocalizedString }[],
+  // list of instability details, indexed in `instabilities`
+  instability_details: {
+    evtc_id: number;
+    icon_id: number;
+    name: LocalizedString;
+  }[],
 }
 
 export interface Dailies {
   dailies: [string, string, string][],
 }
+
+type RecommendedFractal = { scale: number; achievement_id: number };
 
 export interface Recommended {
   recommended: [RecommendedFractal, RecommendedFractal, RecommendedFractal][],
@@ -83,4 +110,5 @@ export interface Fractals {
 - The fractal guild who initially discovered it.
 - [Discretize [dT]](https://discretize.eu/) for putting the required info into the open.
 - [itsmefox](https://github.com/itsmefox) for writing and providing Aleeva's API.
-- Invisi (this guy) for being a data hoarder and automating the collection of this data.
+- [darthmaim](https://github.com/darthmaim) for maintenance and additional data.
+- [greaka](https://github.com/greaka) for assisting with tooling and enduring my Rust skills.
