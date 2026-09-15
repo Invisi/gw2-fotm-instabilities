@@ -18,7 +18,7 @@
         { "scale": 16, "type": "twilight_oasis", "ar": 0, "daily_achievement_id": 4028 },
         { "scale": 17, "type": "kinfall", "ar": 0, "daily_achievement_id": 8784 },
         { "scale": 18, "type": "captain_mai_trin_boss", "ar": 0, "daily_achievement_id": 2978 },
-        { "scale": 19, "type": "volcanic", "ar": 0, "daily_achievement_id": 2911 },
+        { "scale": 19, "type": "solitary_throne", "ar": 0, "daily_achievement_id": 9423 },
         { "scale": 20, "type": "solid_ocean", "ar": 8, "daily_achievement_id": 2954 },
         { "scale": 21, "type": "silent_surf", "ar": 10, "daily_achievement_id": 6953 },
         { "scale": 22, "type": "nightmare", "ar": 11, "daily_achievement_id": 3229 },
@@ -43,7 +43,7 @@
         { "scale": 41, "type": "twilight_oasis", "ar": 45, "daily_achievement_id": 4006 },
         { "scale": 42, "type": "captain_mai_trin_boss", "ar": 47, "daily_achievement_id": 2899 },
         { "scale": 43, "type": "silent_surf", "ar": 49, "daily_achievement_id": 6943 },
-        { "scale": 44, "type": "solid_ocean", "ar": 50, "daily_achievement_id": 2971 },
+        { "scale": 44, "type": "solitary_throne", "ar": 50, "daily_achievement_id": 9412 },
         { "scale": 45, "type": "aetherblade", "ar": 52, "daily_achievement_id": 2909 },
         { "scale": 46, "type": "cliffside", "ar": 54, "daily_achievement_id": 2958 },
         { "scale": 47, "type": "nightmare", "ar": 56, "daily_achievement_id": 3196 },
@@ -63,7 +63,7 @@
         { "scale": 61, "type": "aquatic_ruins", "ar": 81, "daily_achievement_id": 2964 },
         { "scale": 62, "type": "uncategorized", "ar": 83, "daily_achievement_id": 2925 },
         { "scale": 63, "type": "chaos", "ar": 84, "daily_achievement_id": 3045 },
-        { "scale": 64, "type": "thaumanova_reactor", "ar": 86, "daily_achievement_id": 2895 },
+        { "scale": 64, "type": "solitary_throne", "ar": 86, "daily_achievement_id": 9373 },
         { "scale": 65, "type": "aetherblade", "ar": 88, "daily_achievement_id": 2928 },
         { "scale": 66, "type": "silent_surf", "ar": 90, "daily_achievement_id": 6945 },
         { "scale": 67, "type": "deepstone", "ar": 91, "daily_achievement_id": 4210 },
@@ -88,12 +88,12 @@
         { "scale": 86, "type": "snowblind", "ar": 125, "daily_achievement_id": 2952 },
         { "scale": 87, "type": "twilight_oasis", "ar": 127, "daily_achievement_id": 3973 },
         { "scale": 88, "type": "chaos", "ar": 129, "daily_achievement_id": 3038 },
-        { "scale": 89, "type": "swampland", "ar": 131, "daily_achievement_id": 2892 },
-        { "scale": 90, "type": "molten_boss", "ar": 132, "daily_achievement_id": 2966 },
-        { "scale": 91, "type": "captain_mai_trin_boss", "ar": 134, "daily_achievement_id": 2932 },
-        { "scale": 92, "type": "volcanic", "ar": 136, "daily_achievement_id": 2989 },
-        { "scale": 93, "type": "aetherblade", "ar": 138, "daily_achievement_id": 2948 },
-        { "scale": 94, "type": "cliffside", "ar": 139, "daily_achievement_id": 2930 },
+        { "scale": 89, "type": "molten_boss", "ar": 131, "daily_achievement_id": 2966 },
+        { "scale": 90, "type": "captain_mai_trin_boss", "ar": 132, "daily_achievement_id": 2932 },
+        { "scale": 91, "type": "volcanic", "ar": 134, "daily_achievement_id": 2989 },
+        { "scale": 92, "type": "aetherblade", "ar": 136, "daily_achievement_id": 2948 },
+        { "scale": 93, "type": "cliffside", "ar": 138, "daily_achievement_id": 2930 },
+        { "scale": 94, "type": "solitary_throne", "ar": 139, "daily_achievement_id": 9388 },
         { "scale": 95, "type": "kinfall", "ar": 141, "daily_achievement_id": 8739 },
         { "scale": 96, "type": "nightmare", "ar": 143, "daily_achievement_id": 3177 },
         { "scale": 97, "type": "shattered_observatory", "ar": 145, "daily_achievement_id": 3458 },
@@ -104,7 +104,7 @@
     "fractal_details": {
         "aetherblade": {
             "name": { "de": "Ätherklingen-Zuflucht", "en": "Aetherblade", "es": "Filoetéreo", "fr": "Étherlame" },
-            "scales": [14, 45, 65, 93]
+            "scales": [14, 45, 65, 92]
         },
         "aquatic_ruins": {
             "name": { "de": "Unterwasserruinen", "en": "Aquatic Ruins", "es": "Ruinas acuáticas", "fr": "Ruines aquatiques" },
@@ -112,7 +112,7 @@
         },
         "captain_mai_trin_boss": {
             "name": { "de": "Kapitän Mai Trin Boss", "en": "Captain Mai Trin Boss", "es": "Jefa capitana Mai Trin", "fr": "Boss capitaine Mai Trin" },
-            "scales": [18, 42, 71, 91]
+            "scales": [18, 42, 71, 90]
         },
         "chaos": {
             "name": { "de": "Chaos", "en": "Chaos", "es": "Caos", "fr": "Chaos" },
@@ -120,7 +120,7 @@
         },
         "cliffside": {
             "name": { "de": "Felswand", "en": "Cliffside", "es": "Despeñadero", "fr": "Flanc de falaise" },
-            "scales": [6, 46, 68, 94]
+            "scales": [6, 46, 68, 93]
         },
         "deepstone": {
             "name": { "de": "Tiefenstein", "en": "Deepstone", "es": "Rocahonda", "fr": "Roche des abysses" },
@@ -136,7 +136,7 @@
         },
         "molten_boss": {
             "name": { "de": "Feuriger Boss", "en": "Molten Boss", "es": "Jefes Fundidos", "fr": "Boss de la Fusion" },
-            "scales": [10, 40, 69, 90]
+            "scales": [10, 40, 69, 89]
         },
         "molten_furnace": {
             "name": { "de": "Feuriger Hochofen", "en": "Molten Furnace", "es": "Fragua Fundida", "fr": "Fournaise de la Fusion" },
@@ -168,15 +168,19 @@
         },
         "solid_ocean": {
             "name": { "de": "Solider Ozean", "en": "Solid Ocean", "es": "Océano Sólido", "fr": "Océan solide" },
-            "scales": [20, 35, 44, 60, 80]
+            "scales": [20, 35, 60, 80]
+        },
+        "solitary_throne": {
+            "name": { "de": "Einsamer Thron", "en": "Solitary Throne", "es": "Trono solitaro", "fr": "Trône solitaire" },
+            "scales": [19, 44, 64, 94]
         },
         "swampland": {
             "name": { "de": "Sumpfland", "en": "Swampland", "es": "Cenagal", "fr": "Marais" },
-            "scales": [5, 32, 56, 77, 89]
+            "scales": [5, 32, 56, 77]
         },
         "thaumanova_reactor": {
             "name": { "de": "Thaumanova-Reaktor", "en": "Thaumanova Reactor", "es": "Reactor de Taumanova", "fr": "Réacteur de Thaumanova" },
-            "scales": [15, 34, 55, 64, 82]
+            "scales": [15, 34, 55, 82]
         },
         "twilight_oasis": {
             "name": { "de": "Zwielichtoase", "en": "Twilight Oasis", "es": "Oasis del Crepúsculo", "fr": "Oasis du crépuscule" },
@@ -196,7 +200,7 @@
         },
         "volcanic": {
             "name": { "de": "Vulkanisches Fraktal", "en": "Volcanic", "es": "Volcánico", "fr": "Volcanique" },
-            "scales": [1, 19, 28, 52, 92]
+            "scales": [1, 28, 52, 91]
         }
     }
 }
